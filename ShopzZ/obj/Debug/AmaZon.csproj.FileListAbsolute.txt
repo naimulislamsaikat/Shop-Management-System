@@ -1,0 +1,14 @@
+E:\CODE Files\VS 2022\AmaZon\obj\Debug\AmaZon.csproj.AssemblyReference.cache
+E:\CODE Files\VS 2022\AmaZon\obj\Debug\AmaZon.Properties.Resources.resources
+E:\CODE Files\VS 2022\AmaZon\obj\Debug\AmaZon.csproj.GenerateResource.cache
+E:\CODE Files\VS 2022\AmaZon\obj\Debug\AmaZon.csproj.CoreCompileInputs.cache
+E:\CODE Files\VS 2022\AmaZon\bin\Debug\AmaZon.exe.config
+E:\CODE Files\VS 2022\AmaZon\bin\Debug\AmaZon.exe
+E:\CODE Files\VS 2022\AmaZon\bin\Debug\AmaZon.pdb
+E:\CODE Files\VS 2022\AmaZon\obj\Debug\AmaZon.exe
+E:\CODE Files\VS 2022\AmaZon\obj\Debug\AmaZon.pdb
+E:\CODE Files\VS 2022\AmaZon\obj\Debug\AmaZon.CreatePage.resources
+E:\CODE Files\VS 2022\AmaZon\obj\Debug\AmaZon.LogPage.resources
+E:\CODE Files\VS 2022\AmaZon\obj\Debug\AmaZon.Admin.resources
+E:\CODE Files\VS 2022\AmaZon\obj\Debug\AmaZon.Home.resources
+E:\CODE Files\VS 2022\AmaZon\obj\Debug\AmaZon.Adminportal.resources
